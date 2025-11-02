@@ -1,4 +1,4 @@
-# SBL Quiz App – Wrong Answer Fix
+# SBL Quiz App
 
 This project implements a math learning app combining **simulation-based learning (SBL)** and **drill-and-practice exercises**.  
 - **SBL Mode:** Step-by-step problem solving with voice guidance and visualizations (canvas) for each step. Example: Oranges cost 8 units each; sister buys 4, younger sister buys 3; calculate total. Randomized examples and challenge mode included.  
